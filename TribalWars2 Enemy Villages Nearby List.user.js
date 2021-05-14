@@ -5,10 +5,10 @@
 // @author       JPylypiw (https://github.com/JPylypiw)
 // @description  You will get a list of the nearby villages then you type villages_nearby() into your Browser Console.
 // @homepage     https://github.com/jpylypiw/tw2tools
-// @icon64       https://de.tribalwars2.com/favicon.ico
+// @icon64       https://br.tribalwars2.com/favicon.ico
 // @updateURL    https://github.com/jpylypiw/tw2tools/raw/master/scripts/TribalWars2%20Enemy%20Villages%20Nearby%20List.user.js
 // @supportURL   https://github.com/jpylypiw/tw2tools/issues
-// @match        https://de.tribalwars2.com/game.php*
+// @match        https://br.tribalwars2.com/game.php*
 // @grant        none
 // @noframes
 // ==/UserScript==

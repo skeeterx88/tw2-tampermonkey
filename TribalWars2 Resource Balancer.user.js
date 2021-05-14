@@ -5,10 +5,10 @@
 // @author       JPylypiw (https://github.com/JPylypiw)
 // @description  This bot exchanges resources between the villages. You can set the threshold to a value between 0 and 1. Practical values are between 0.3 and 0.7.
 // @homepage     https://github.com/jpylypiw/tw2tools
-// @icon64       https://de.tribalwars2.com/favicon.ico
+// @icon64       https://br.tribalwars2.com/favicon.ico
 // @updateURL    https://github.com/jpylypiw/tw2tools/raw/master/scripts/TribalWars2%20Resource%20Balancer.user.js
 // @supportURL   https://github.com/jpylypiw/tw2tools/issues
-// @match        https://de.tribalwars2.com/game.php*
+// @match        https://br.tribalwars2.com/game.php*
 // @grant        none
 // @noframes
 // ==/UserScript==
